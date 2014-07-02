@@ -1,0 +1,68 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 732
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-11 ; Times: 7
+	Date: 2014-06-17 ; Times: 2
+	Date: 2014-06-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis hammondii kern" ; Times: 2
+	Query: "CCBER thamnophis hammondii" ; Times: 2
+	Query: "charina hemet" ; Times: 2
+	Query: "thamnophis hammondii los angeles" ; Times: 2
+	Query: "institutioncode:ccber" ; Times: 2
+	Query: "thamnophis sirtalis distance(location,geopoint(35.137879119634185,-119.20166015625))<100000" ; Times: 1
+	Query: "CCBER" ; Times: 1
+	Query: "ccber" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 278 download events in this period)
+Total number of records downloaded: 631 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 321
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "CCBER thamnophis hammondii" ; Times: 1
+	Query: "thamnophis hammondii kern" ; Times: 1
+	Query: "thamnophis hammondii los angeles" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 35
+Total number of records retrieved from searches: 1786
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 3885
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 35
+Total number of records retrieved from searches: 1786
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 3885
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
