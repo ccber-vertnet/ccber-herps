@@ -1,0 +1,123 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 524
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 1
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-06 ; Times: 4
+	Date: 2015-02-07 ; Times: 16
+	Date: 2015-02-08 ; Times: 4
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 2
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 3
+	Date: 2015-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudacris cadaverina county:"San Luis Obispo"" ; Times: 1
+	Query: "type:specimen institutioncode:CCBER" ; Times: 1
+	Query: "county:"Mono" genus:Crotalus" ; Times: 15
+	Query: "lampropeltis county:"ventura" stateprovince:"california"" ; Times: 1
+	Query: "type:specimen institutioncode:CCBER Herps" ; Times: 1
+	Query: "Pseudacris cadaverina county:"Ventura"" ; Times: 1
+	Query: "type:specimen county:"Los Angeles" stateprovince:"California" (Leptotyphlops)" ; Times: 1
+	Query: "county:"San Luis Obispo" genus:Elgaria" ; Times: 1
+	Query: "coluber county:"kern"" ; Times: 2
+	Query: "Crotalus stephensi" ; Times: 2
+	Query: "spea county:"riverside" stateprovince:"california"" ; Times: 1
+	Query: "charina ventura" ; Times: 1
+	Query: "Arizona county:"kern"" ; Times: 1
+	Query: "ensatina county:"ventura" stateprovince:"california"" ; Times: 1
+	Query: "crotalus STEPHENSI" ; Times: 3
+	Query: "Batrachoseps minor" ; Times: 2
+	Query: "lampropeltis county:"kern"" ; Times: 1
+	Query: "type:specimen stateprovince:"California" specificepithet:zonata genus:Lampropeltis institutioncode:CCBER Herps" ; Times: 1
+	Query: "county:"Santa Barbara" stateprovince:"California" specificepithet:zonata genus:Lampropeltis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 326 download events in this period)
+Total number of records downloaded: 21708 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 15637
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-07 ; Times: 3
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 5
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "crotalus STEPHENSI" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "Batrachoseps minor" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 2
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "type:specimen stateprovince:"California" institutioncode:CCBER Herps" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Crotalus type:specimen year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 116
+Total number of records retrieved from searches: 3766
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 27100
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 131
+Total number of records retrieved from searches: 3973
+Number of download events that retrieved data from the resource: 123
+Total number of records downloaded: 46185
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
