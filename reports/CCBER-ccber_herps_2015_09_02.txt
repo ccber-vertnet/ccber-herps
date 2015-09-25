@@ -1,0 +1,143 @@
+Report for Institution Code CCBER, Resource Herps
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 1878
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 67
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 3
+	Date: 2015-08-03 ; Times: 4
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-12 ; Times: 3
+	Date: 2015-08-13 ; Times: 28
+	Date: 2015-08-15 ; Times: 11
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 8
+	Date: 2015-08-25 ; Times: 2
+	Date: 2015-08-26 ; Times: 2
+	Date: 2015-08-27 ; Times: 4
+	Date: 2015-08-28 ; Times: 4
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Trachemys stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Thamnophis couchii stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "UTA 4380" ; Times: 4
+	Query: "Sceloporus graciosus stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Ascaphus truei stateprovince:"California" year >= 1970 year <= 2015" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "Salvadora stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "27999" ; Times: 1
+	Query: "Batrachoseps incognitus stateprovince:"California" year >= 2000 year <= 2015" ; Times: 1
+	Query: "stateprovince:"california" genus:charina class:reptilia AND (NOT thamnophis) year >= 1990 year <= 2015" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Diadophis punctatus county:"Riverside"" ; Times: 1
+	Query: "Hemidactylus stateprovince:"California"" ; Times: 3
+	Query: "Ambystoma californiense stateprovince:"California" year >= 2000 year <= 2015" ; Times: 2
+	Query: "Rana county:"Fresno" class:amphibia" ; Times: 1
+	Query: "Pseudacris stateprovince:"California" year >= 2000 year <= 2015" ; Times: 1
+	Query: "Batrachoseps minor stateprovince:"California" year >= 2000 year <= 2015" ; Times: 1
+	Query: "Batrachoseps incognitus" ; Times: 1
+	Query: "Crotalus ruber stateprovince:"California" year >= 1985 year <= 2015" ; Times: 1
+	Query: "county:"riverside" stateprovince:"california" class:reptilia AND (NOT thamnophis NOT sceloporus) year >= 1990 year <= 2015" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "canorus county:"Fresno" class:amphibia" ; Times: 1
+	Query: "Pituophis stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Paredon class:Reptilia year >= 1400 year <= 2015" ; Times: 4
+	Query: "Crotalus simus" ; Times: 1
+	Query: "lichanura stateprovince:"California" year >= 1985 year <= 2015" ; Times: 1
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "desert tortoise" ; Times: 1
+	Query: "stateprovince:"California" class:amphibia year >= 2010 year <= 2015" ; Times: 12
+	Query: "Ambystoma tigrinum county:"Santa Barbara"" ; Times: 1
+	Query: "Phrynosoma mcallii county:"San Diego"" ; Times: 1
+	Query: "phrynosoma stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Lampropeltis zonata stateprovince:"California"" ; Times: 2
+	Query: "county:"riverside" stateprovince:"California" genus:diadophis" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "Sceloporus county:"Fresno" class:Reptilia" ; Times: 1
+	Query: "incognitus Batrachoseps county:"monterey"" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "Ambystoma mavortium stateprovince:"California" year >= 2000 year <= 2015" ; Times: 1
+	Query: ""santa cruz" OR "santa cruz island" county:"santa barbara" stateprovince:"california" genus:pituophis" ; Times: 1
+	Query: "Batrachoseps nigriventris stateprovince:"California" year >= 2000 year <= 2015" ; Times: 7
+	Query: "Crotalus oreganus stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Thamnophis elegans stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Rana draytonii stateprovince:"California" year >= 2000 year <= 2015" ; Times: 1
+	Query: "crotalus stephensi stateprovince:"California" year >= 1970 year <= 2015" ; Times: 1
+	Query: "sedgwick" ; Times: 1
+	Query: "Uta stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Xenopus stateprovince:"California" year >= 2000 year <= 2015" ; Times: 1
+	Query: "county:"santa barbara" specificepithet:pacificus class:amphibia year >= 1990" ; Times: 1
+	Query: "Ambystoma county:"Santa Barbara"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1138 download events in this period)
+Total number of records downloaded: 2631 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2544
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "riverside county" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "nevada class:reptilia" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 80
+Total number of records retrieved from searches: 1878
+Number of download events that retrieved data from the resource: 11
+Total number of records downloaded: 2631
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 80
+Total number of records retrieved from searches: 1878
+Number of download events that retrieved data from the resource: 11
+Total number of records downloaded: 2631
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
