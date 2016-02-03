@@ -1,0 +1,114 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 393
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Brazil ; Times: 1
+	Country: Papua New Guinea ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-07 ; Times: 3
+	Date: 2015-09-02 ; Times: 12
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-26 ; Times: 10
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Pinos stateprovince:&#34;California&#34; class:reptilia" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "county:&#34;Inyo&#34; stateprovince:&#34;California&#34; genus:Coleonyx" ; Times: 1
+	Query: "phrynosoma mono county" ; Times: 1
+	Query: "Rhinocheilus inyo county" ; Times: 1
+	Query: "Pituophis catenifer deserticola" ; Times: 1
+	Query: "UTA 10288" ; Times: 1
+	Query: "county:&#34;Riverside&#34; (Crotaphytus)" ; Times: 10
+	Query: "county:&#34;Inyo&#34; stateprovince:&#34;California&#34; genus:Rhinocheilus" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "county:&#34;Inyo&#34; genus:Rana class:Amphibia" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "gbifdatasetid:1050a336-b87a-44b1-b0ec-6fe5fcb3d298" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; genus:Sauromalus" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 2
+	Query: "crotalus pyrrhus" ; Times: 1
+	Query: "Kelso county:&#34;san Bernardino&#34; stateprovince:&#34;California&#34; specificepithet:variegatus genus:coleonyx" ; Times: 1
+	Query: "crotalus simus" ; Times: 3
+	Query: "Santa Rosa county:&#34;Riverside&#34; class:reptilia" ; Times: 2
+	Query: "reptilia catalognumber:30513" ; Times: 1
+	Query: "lampropeltis zonata stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "UTA 14630" ; Times: 1
+	Query: "Pinos stateprovince:&#34;California&#34; class:amphibia" ; Times: 2
+	Query: "&#34;lng:&#34;" ; Times: 1
+	Query: "Santa Rosa county:&#34;Riverside&#34; class:amphibia" ; Times: 1
+	Query: "black rail" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1045 download events in this period)
+Total number of records downloaded: 4444
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-29 ; Times: 5
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 2
+	Query: "batrachoseps los angeles" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "old woman california chordata" ; Times: 1
+	Query: "ascaphus" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "Spea Hammondii stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1999" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+
+
+End of report.
