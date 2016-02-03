@@ -1,0 +1,60 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 10
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "CROCEATER" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "crotalus cerastes utah" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 889 download events in this period)
+Total number of records downloaded: 2783
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-10 ; Times: 5
+	Date: 2015-12-17 ; Times: 7
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudacris cadaverina" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Bufo californicus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "spea" ; Times: 1
+
+
+End of report.
