@@ -1,0 +1,89 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-06 ; Times: 3
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:draytonii genus:rana year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "uma inornata recordedby:sweet" ; Times: 1
+	Query: "Gillis Rd" ; Times: 2
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "Xenopus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xenopus laevis country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "uma inornata" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "specificepithet:draytonii genus:rana year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "27542" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 823 download events in this period)
+Total number of records downloaded: 1833
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "taricha torosa county:&#34;san diego&#34;" ; Times: 3
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Xenopus laevis country:&#34;United States&#34;" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Amboy" ; Times: 1
+
+
+End of report.
