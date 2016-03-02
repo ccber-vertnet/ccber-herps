@@ -1,0 +1,76 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 146
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ensatina nevada county" ; Times: 1
+	Query: "Trimorphodon county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "salvadora imperial" ; Times: 1
+	Query: "Crotalus mitchellii county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Elgaria coerulea county:&#34;kern&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma tigrinum stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "institutioncode:ccber" ; Times: 1
+	Query: "salvadora riverside" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 512 download events in this period)
+Total number of records downloaded: 5249
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-26 ; Times: 8
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 5
+	Query: "Cedar Canyon county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Dicamptodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+
+
+End of report.
