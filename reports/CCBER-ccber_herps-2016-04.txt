@@ -1,0 +1,90 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 159
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-26 ; Times: 3
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Xenopus laevis 1" ; Times: 2
+	Query: "24268" ; Times: 2
+	Query: "San Nicolas Island AND Herps" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "crotalus simus simus" ; Times: 1
+	Query: "charina county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "San Nicolas Island AND Herps NOT Guam NOT Bezy" ; Times: 1
+	Query: "Spea hammondii institutioncode:CCBER" ; Times: 1
+	Query: "Crotalus AND Catalina Island" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "Abbott AND Santa Rosa Island" ; Times: 1
+	Query: "Lichanura riverside" ; Times: 3
+	Query: "Crotalus AND Catalina Island AND California NOT Mexico" ; Times: 1
+	Query: "vandenberg air force base" ; Times: 1
+	Query: "santa barbara county eagle" ; Times: 1
+	Query: "sceloporus blair" ; Times: 2
+	Query: "Scincidae preparations:skeleton" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1312 download events in this period)
+Total number of records downloaded: 7248
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "anniella pulchra mappable:1" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+
+
+End of report.
