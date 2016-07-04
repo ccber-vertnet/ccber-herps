@@ -1,0 +1,152 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 677
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 80
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 2
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-21 ; Times: 9
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 6
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-01 ; Times: 9
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-03 ; Times: 27
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-04 ; Times: 5
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Reptilia 27353" ; Times: 1
+	Query: "Reptilia 23129" ; Times: 1
+	Query: "Reptilia 16642" ; Times: 1
+	Query: "ccber" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Reptilia 3447" ; Times: 1
+	Query: "davenport pond" ; Times: 2
+	Query: "Reptilia 20872" ; Times: 1
+	Query: "amphibia county:&#34;Alpine&#34;" ; Times: 1
+	Query: "Coluber New York" ; Times: 2
+	Query: "Reptilia 30016" ; Times: 1
+	Query: "tantilla inyo" ; Times: 2
+	Query: "Reptilia 13651" ; Times: 1
+	Query: "Chionactis 168" ; Times: 1
+	Query: "Reptilia 27138" ; Times: 1
+	Query: "Rhinocheilus inyo" ; Times: 2
+	Query: "26378" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 4
+	Query: "tigris county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "crotalus mitchellii county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "11139" ; Times: 3
+	Query: "bufo county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Reptilia 26127" ; Times: 1
+	Query: "Phrynosoma county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Reptilia 21632" ; Times: 1
+	Query: "Reptilia 15902" ; Times: 1
+	Query: "Crotalus AND Catalina Island NOT Mexico" ; Times: 1
+	Query: "Crotalus AND Catalina Island" ; Times: 1
+	Query: "Reptilia 29476" ; Times: 1
+	Query: "scaphiopus county:&#34;Mono&#34;" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 2
+	Query: "Reptilia 13523" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "Reptilia catalognumber:8894" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 8
+	Query: "Reptilia 11091" ; Times: 1
+	Query: "Reptilia 24643" ; Times: 2
+	Query: "Reptilia 3459" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "phrynosoma county:&#34;mono&#34;" ; Times: 1
+	Query: "amphibia county:&#34;Mono&#34;" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 2000" ; Times: 2
+	Query: "11899" ; Times: 1
+	Query: "crotalus pyrrhus" ; Times: 1
+	Query: "Reptilia 30017" ; Times: 1
+	Query: "Reptilia 22338" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Reptilia 24183" ; Times: 1
+	Query: "crotalus county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Reptilia 8223" ; Times: 1
+	Query: "ccber emydidae" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "crotalus mitchellii county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Reptilia 30018" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Reptilia 23998" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34;" ; Times: 3
+	Query: "Abbott AND Santa Rosa ISland" ; Times: 1
+	Query: "crotalus county:&#34;mono&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Reptilia 3460" ; Times: 1
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "Reptilia 3462" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1052 download events in this period)
+Total number of records downloaded: 1204
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "elgaria coerulea" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "crotalus (San Bernardino)" ; Times: 1
+	Query: "crotalus (county:riverside)" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "crotalus (county: san bernardino)" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "aspidoscelis" ; Times: 2
+	Query: "cottonwood springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "crotalus pyrrhus" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 1
+	Query: "ccber emydidae" ; Times: 1
+
+
+End of report.
