@@ -1,0 +1,105 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 702
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-10 ; Times: 2
+	Date: 2016-07-26 ; Times: 4
+	Date: 2016-07-12 ; Times: 2
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-22 ; Times: 4
+	Date: 2016-07-18 ; Times: 2
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-29 ; Times: 5
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-27 ; Times: 2
+	Date: 2016-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "29865" ; Times: 1
+	Query: "hammondii county:&#34;ventura&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo stateprovince:&#34;California&#34; (tadpole OR tadpoles OR lot)" ; Times: 1
+	Query: "22406" ; Times: 1
+	Query: "plestiodon county:&#34;el dorado&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "spea hammondii county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Crotalus AND oreganus AND (helleri)" ; Times: 1
+	Query: "26335" ; Times: 1
+	Query: "Trimorphodon CA" ; Times: 1
+	Query: "catalognumber:32130 institutioncode:CCBER" ; Times: 1
+	Query: "Charina riverside county" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 4
+	Query: "33274" ; Times: 1
+	Query: "18611 CCBER" ; Times: 1
+	Query: "gbifdatasetid:1050a336-b87a-44b1-b0ec-6fe5fcb3d298" ; Times: 3
+	Query: "24340" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "institutioncode:CCBER" ; Times: 1
+	Query: "anniella pulchra year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 1
+	Query: "CCBER-24524" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "Rhinocheilus lecontei (inyo county)" ; Times: 1
+	Query: "kettleman" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1219 download events in this period)
+Total number of records downloaded: 1016
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-10 ; Times: 2
+	Date: 2016-07-26 ; Times: 4
+	Date: 2016-07-12 ; Times: 3
+	Date: 2016-07-20 ; Times: 1
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-08 ; Times: 3
+	Date: 2016-07-28 ; Times: 1
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mcallii genus:phrynosoma" ; Times: 3
+	Query: "california red legged frog" ; Times: 1
+	Query: "&#34;Santa Rosa Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "specificepithet:boreas family:Bufonidae (tadpole OR tadpoles OR lot OR larva)" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo stateprovince:&#34;California&#34; (tadpole OR tadpoles OR lot OR larva)" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:Aneides" ; Times: 1
+	Query: "Crotalus AND oreganus AND (NOT helleri NOT nuntius NOT abyssus NOT cerberus NOT lutosus)" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "reptilia Mexico" ; Times: 6
+	Query: "&#34;Crotalus oreganus&#34; AND (NOT helleri NOT nuntius NOT abyssus NOT cerberus NOT concolor NOT lutosus ) mappable:1" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo stateprovince:&#34;California&#34; (tadpole OR tadpoles OR lot)" ; Times: 1
+	Query: "&#34;Santa Rosa Island&#34;" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Leptotyphlops humilis" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+
+
+End of report.
