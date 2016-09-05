@@ -1,0 +1,109 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 908
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-16 ; Times: 3
+	Date: 2016-08-18 ; Times: 11
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 5
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-31 ; Times: 4
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:sweet institutioncode:CCBER" ; Times: 1
+	Query: "amphibia stateprovince:&#34;California&#34; year &gt;= 2011 year &lt;= 2011" ; Times: 1
+	Query: "21820" ; Times: 1
+	Query: "Scaphiopus hammondii" ; Times: 1
+	Query: "taricha torosa institutioncode:CCBER" ; Times: 1
+	Query: "Crotalus (san joaquin) year &gt;= 1930 year &lt;= 2016" ; Times: 1
+	Query: "county:&#34;ventura&#34; recordedby:sweet year &gt;= 1990 year &lt;= 1990 institutioncode:CCBER" ; Times: 2
+	Query: "genus:Trimorphodon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "recordedby:sweet year &gt;= 1989 year &lt;= 1989 institutioncode:CCBER" ; Times: 1
+	Query: "&#34;Taricha torosa&#34; catalognumber:29956 institutioncode:CCBER" ; Times: 1
+	Query: "charina mono" ; Times: 3
+	Query: "Crotalus (madera) year &gt;= 1930 year &lt;= 2016" ; Times: 1
+	Query: "genus:anniella locality:rancho las flores" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 4
+	Query: "San Bernardino county charina" ; Times: 1
+	Query: "genus:Lampropeltis lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "institutioncode:CCBER" ; Times: 1
+	Query: "San Nicolas Island AND Elgaria" ; Times: 1
+	Query: "genus:coluber recordedby:sweet year &gt;= 1989 year &lt;= 1991 institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "county:&#34;santa barbara&#34; recordedby:sweet year &gt;= 1989 year &lt;= 1989 institutioncode:CCBER" ; Times: 1
+	Query: "punctatus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lampropeltis getula New Mexico" ; Times: 1
+	Query: "recordedby:sweet year &gt;= 1989 year &lt;= 1991 institutioncode:CCBER" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 924 download events in this period)
+Total number of records downloaded: 10708
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-16 ; Times: 4
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-27 ; Times: 8
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-30 ; Times: 12
+	Date: 2016-08-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "Bufo californicus" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Bufo canorus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Granite Pass" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "Thousand Palms" ; Times: 1
+	Query: "Clark county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Scaphiopus hammondii" ; Times: 1
+	Query: "Contia" ; Times: 1
+
+
+End of report.
