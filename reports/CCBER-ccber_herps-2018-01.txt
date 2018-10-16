@@ -1,0 +1,144 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 608
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 4
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 4
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-07 ; Times: 3
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-05 ; Times: 6
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-17 ; Times: 5
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-10 ; Times: 9
+	Date: 2018-01-16 ; Times: 3
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:multicarinata genus:Elgaria county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:anniella county:&#34;santa barbara&#34; year &gt;= 1989 year &lt;= 1989 month &gt;= 2 month &lt;= 2" ; Times: 1
+	Query: "genus:Aneides county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Petrosaurus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Xantusia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:anniella county:&#34;ventura&#34; year &gt;= 1990 year &lt;= 1990 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "29233" ; Times: 1
+	Query: "specificepithet:Insularis hastissue:1" ; Times: 1
+	Query: "ccber 26555" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "specificepithet:lugubris genus:Aneides county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:multicarinata genus:Elgaria county:&#34;San Luis Obispo&#34; year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia stateprovince:&#34;California&#34; year &gt;= 2000" ; Times: 1
+	Query: "Rana muscosa vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Batrachoseps county:&#34;Santa Barbara&#34; year &gt;= 2005 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:multicarinata genus:Elgaria county:&#34;San Luis Obispo&#34; hastissue:1" ; Times: 1
+	Query: "Under board country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "genus:Trimorphodon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Crotalus oreganus helleri" ; Times: 1
+	Query: "genus:anniella county:&#34;san luis obispo&#34; recordedby:sweet year &gt;= 1989 year &lt;= 1989 month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "Under rock class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 5
+	Query: "Gambelia sila" ; Times: 1
+	Query: "genus:Batrachoseps county:&#34;Santa Barbara&#34; AND (nigriventris) year &gt;= 2005 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:multicarinata genus:Elgaria county:&#34;San Luis Obispo&#34; year &gt;= 1995 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Riverside&#34;" ; Times: 2
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:Batrachoseps county:&#34;Santa Barbara&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Sauromalus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; recordedby:Holland" ; Times: 1
+	Query: "specificepithet:californiense genus:Ambystoma county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:trivirgata family:Boidae stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Under log class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "genus:Uma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "genus:trimorphodon county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "genus:anniella county:&#34;ventura&#34; recordedby:sweet" ; Times: 1
+	Query: "genus:Chionactis county:&#34;imperial&#34;" ; Times: 1
+	Query: "specificepithet:blainvillii genus:Phrynosoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:trimorphodon county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:eschscholtzii genus:Ensatina county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Macrodactylum genus:Ambystoma county:&#34;Alpine&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:Anniella county:&#34;santa barbara&#34; year &gt;= 1989 year &lt;= 1989 month &gt;= 2 month &lt;= 2 institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:multicarinata genus:Elgaria county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "annulata genus:Chionactis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1398 download events in this period)
+Total number of records downloaded: 4773
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "genus:Rana specificepithet:muscosa" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "specificepithet:graciosus genus:urosaurus stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "sceloporus occidentalis vntype:specimen basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:sila genus:Gambelia" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Aneides flavipunctatus flavipunctatus" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "gambelia sila" ; Times: 1
+	Query: "genus:Uma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 3
+	Query: "genus:Sauromalus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "(PHRYNOSOMATIDAE) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+
+
+End of report.
