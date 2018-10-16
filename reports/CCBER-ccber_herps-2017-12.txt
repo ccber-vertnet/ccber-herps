@@ -1,0 +1,171 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 2677
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 126
+	Country: Italy ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 10
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-16 ; Times: 2
+	Date: 2017-12-07 ; Times: 8
+	Date: 2017-12-06 ; Times: 12
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-10 ; Times: 33
+	Date: 2017-12-11 ; Times: 25
+	Date: 2017-12-12 ; Times: 25
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-08 ; Times: 4
+	Date: 2017-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Camarillo county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anniella county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bank family:Viperidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "creek family:Anniellidae stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "arroyo family:Viperidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:marmorata county:&#34;santa barbara&#34; recordedby:sweet" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Elgaria county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 2
+	Query: "genus:Crotalus catalognumber:17069" ; Times: 2
+	Query: "wash family:Anguidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wash family:Xantusiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:anniella county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "riparian family:Viperidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "river family:Viperidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "creek family:Crotaphytidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "arroyo family:Emydidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "32745" ; Times: 1
+	Query: "genus:Crotalus catalognumber:15723" ; Times: 3
+	Query: "channel family:Scincidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wash specificepithet:oreganus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:reptilia locality:ferguson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus hastissue:1" ; Times: 2
+	Query: "wash family:Viperidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:anniella locality:Black county:&#34;santa barbara&#34; recordedby:Hunt institutioncode:CCBER" ; Times: 1
+	Query: "genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "bank family:Crotaphytidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "wash family:Crotaphytidae stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "specificepithet:skiltonianus genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "bank family:Xantusiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "arroyo family:Anguidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Arizona county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "wash family:Boidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bank family:Anniellidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "river specificepithet:pulchra family:Anniellidae stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "river family:Xantusiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS)" ; Times: 1
+	Query: "arroyo family:Scincidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wash specificepithet:dorsalis family:Iguanidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Elgaria county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "creek family:Boidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "channel family:Emydidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wash family:Scincidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "stream family:Emydidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:gilberti genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:reptilia locality:vulcan basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "creek family:Leptotyphlopidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wash family:Anniellidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bank family:Emydidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:anniella county:&#34;santa barbara&#34; recordedby:Hunt institutioncode:CCBER" ; Times: 1
+	Query: "genus:Crotalus catalognumber:9560" ; Times: 2
+	Query: "genus:Crotalus catalognumber:9561" ; Times: 2
+	Query: "genus:Crotalus catalognumber:28234" ; Times: 2
+	Query: "genus:Trimorphodon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "creek specificepithet:pulchra family:Anniellidae stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Elgaria county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:23233" ; Times: 2
+	Query: "arroyo family:Anniellidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bank family:Teiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "wash family:Colubridae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "bank family:Anguidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "channel family:Colubridae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wash family:Teiidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2209" ; Times: 2
+	Query: "bank family:Scincidae stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 674 download events in this period)
+Total number of records downloaded: 4450
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-12 ; Times: 6
+	Date: 2017-12-13 ; Times: 17
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "creek family:Scincidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "specificepithet:marmorata county:&#34;santa barbara&#34; recordedby:sweet" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "genus:anniella locality:Black county:&#34;santa barbara&#34; recordedby:Hunt institutioncode:CCBER" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "family:Anniellidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "wash family:Crotaphytidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "wash family:Teiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 2
+
+
+End of report.
