@@ -1,0 +1,109 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 1507
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-19 ; Times: 9
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-15 ; Times: 4
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-09 ; Times: 9
+	Date: 2018-03-27 ; Times: 6
+	Date: 2018-03-18 ; Times: 3
+	Date: 2018-03-26 ; Times: 9
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:zonata county:&#34;ventura&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "26861" ; Times: 1
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 2
+	Query: "catalognumber:15284 hastissue:1" ; Times: 1
+	Query: "cerastes utah" ; Times: 1
+	Query: "catalognumber:19634 institutioncode:CCBER" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:scutulatus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "catalognumber:24417 hastissue:1" ; Times: 1
+	Query: "24890" ; Times: 1
+	Query: "specificepithet:scutulatus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "jennings specificepithet:marmorata" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "specificepithet:californiense genus:Ambystoma county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Crotalus viridis helleri" ; Times: 1
+	Query: "genus:Gambelia specificepithet:sila" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "Crotalus oreganus helleri" ; Times: 2
+	Query: "catalognumber:19634 (salvadora)" ; Times: 1
+	Query: "ambystoma alameda" ; Times: 1
+	Query: "genus:Salvadora specificepithet:hexalepis" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 3
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34; year &gt;= 1976 year &lt;= 1985" ; Times: 4
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34; year &gt;= 1931 year &lt;= 1975" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wetland)" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 3
+	Query: "12594 SAM" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "genus:Sonora county:&#34;San bernardino&#34;" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wetland)" ; Times: 1
+	Query: "genus:Sauromalus specificepithet:obesus" ; Times: 3
+	Query: "specificepithet:zonata genus:lampropeltis county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 2
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "family:Phrynosomatidae (wetland)" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;california&#34; year &gt;= 1986" ; Times: 3
+	Query: "specificepithet:humilis county:&#34;santa barbara&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1284 download events in this period)
+Total number of records downloaded: 2497
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-09 ; Times: 8
+	Date: 2018-03-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wetland)" ; Times: 5
+	Query: "specificepithet:laevis genus:Xenopus country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Diadophis punctatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wetland)" ; Times: 2
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:toroSA genus:taricha county:&#34;SAN DIEGO&#34;" ; Times: 1
+
+
+End of report.
