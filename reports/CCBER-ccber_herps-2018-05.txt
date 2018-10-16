@@ -1,0 +1,159 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 1606
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 74
+	Country: Unknown ; Times: 3
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-23 ; Times: 12
+	Date: 2018-05-24 ; Times: 4
+	Date: 2018-05-25 ; Times: 37
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Anniella county:&#34;santa barbara&#34; recordedby:sweet catalognumber:21001 institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anniella county:&#34;Santa Barbara&#34; recordedby:Sweet recordnumber:25977 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella locality:clear creek year &gt;= 1983 year &lt;= 1983 institutioncode:CCBER" ; Times: 1
+	Query: "class:reptilia county:&#34;Imperial&#34; year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "genus:hydromantes county:&#34;fresno&#34;" ; Times: 1
+	Query: "genus:Anniella locality:arroyo simi institutioncode:CCBER" ; Times: 3
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:CCBER" ; Times: 3
+	Query: "genus:Anniella county:&#34;San Luis Obispo&#34; recordedby:Sweet institutioncode:CCBER" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Imperial&#34;" ; Times: 1
+	Query: "Hypsiglena hastissue:1" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 2018" ; Times: 1
+	Query: "genus:Anniella recordedby:sweet year &gt;= 1983 year &lt;= 1983 institutioncode:CCBER" ; Times: 1
+	Query: "genus:crotalus county:&#34;madera&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:charina county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Anniella county:&#34;santa barbara&#34; recordedby:sweet catalognumber:21005 institutioncode:CCBER" ; Times: 1
+	Query: "Contia tenuis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:rana county:&#34;santa cruz&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus pyrrhus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Anniella locality:Chimineas county:&#34;San Luis Obispo&#34; recordedby:Sweet institutioncode:CCBER" ; Times: 1
+	Query: "genus:hydromantes county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:pituophis county:&#34;Imperial&#34;" ; Times: 1
+	Query: "31227 amphibia" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "genus:Anniella recordedby:sweet recordnumber:26035 institutioncode:CCBER" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:CCBER" ; Times: 4
+	Query: "genus:Anniella county:&#34;San Luis Obispo&#34; recordedby:Sweet year &gt;= 1984 year &lt;= 1984 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella locality:Cuyama year &gt;= 1984 year &lt;= 1984 institutioncode:CCBER" ; Times: 1
+	Query: "hydromantes fresno" ; Times: 2
+	Query: "specificepithet:draytonii genus:Rana institutioncode:CCBER" ; Times: 3
+	Query: "Coluber constrictor hastissue:1 year&gt;2005" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "genus:Anniella county:&#34;San Luis Obispo&#34; recordedby:Sweet recordnumber:26796 institutioncode:CCBER" ; Times: 1
+	Query: "Hypsiglena hastissue:1 year &gt; 2000" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 1
+	Query: "genus:Anniella county:&#34;San Luis Obispo&#34; recordedby:Sweet recordnumber:26813 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;santa barbara&#34; recordedby:sweet catalognumber:14358 institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Anniella county:&#34;Santa Barbara&#34; recordedby:Sweet year &gt;= 1980 year &lt;= 1980 month &gt;= 7 month &lt;= 7 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;santa barbara&#34; recordedby:sweet catalognumber:21002 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella locality:la purisima catalognumber:14842 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Hydromantes county:&#34;Fresno&#34;" ; Times: 1
+	Query: "genus:Anniella recordedby:sweet recordnumber:25960 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;santa barbara&#34; recordedby:sweet catalognumber:14356 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;Santa Barbara&#34; recordedby:Sweet year &gt;= 1982 year &lt;= 1982 month &gt;= 12 month &lt;= 12 institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 2
+	Query: "genus:Chionactis class:reptilia county:&#34;IMPERIAL&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anniella county:&#34;San Luis Obispo&#34; recordedby:Sweet recordnumber:25894 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;Santa Barbara&#34; recordedby:Sweet recordnumber:25883 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;santa barbara&#34; recordedby:sweet catalognumber:14355 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;ventura&#34; recordedby:sweet year &gt;= 1982 year &lt;= 1982 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;Santa Barbara&#34; recordedby:Sweet year &gt;= 1980 year &lt;= 1980 month &gt;= 2 month &lt;= 2 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella locality:Betteravia year &gt;= 1983 year &lt;= 1983 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella locality:cuyama valley county:&#34;San Luis Obispo&#34; recordedby:Sweet institutioncode:CCBER" ; Times: 2
+	Query: "genus:Anniella locality:betteravia recordnumber:26903 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella locality:laguna ridge institutioncode:CCBER" ; Times: 1
+	Query: "class:reptilia locality:ivanpah county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:laevis genus:Xenopus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:Anniella county:&#34;San Luis Obispo&#34; recordedby:Sweet recordnumber:26730 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;San Luis Obispo&#34; recordedby:Sweet recordnumber:26729 institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella month &gt;= 1 month &lt;= 1 institutioncode:CCBER" ; Times: 2
+	Query: "genus:Anniella county:&#34;Santa Barbara&#34; recordedby:Sweet year &gt;= 1980 year &lt;= 1980 month &gt;= 5 month &lt;= 5 institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1178 download events in this period)
+Total number of records downloaded: 1123
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Spain ; Times: 10
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:rhinocheilus sex:male OR female" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Batrachoseps minor" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Batrachoseps incognitus" ; Times: 1
+	Query: "genus:urosaurus sex:male OR female" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 2
+	Query: "genus:dipsosaurus sex:male OR female" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "genus:Hydromantes county:&#34;Fresno&#34;" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "genus:arizona sex:male OR female" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 1
+	Query: "genus:trimorphodon sex:male OR female" ; Times: 1
+	Query: "specificepithet:muscosa genus:Rana" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+
+
+End of report.
