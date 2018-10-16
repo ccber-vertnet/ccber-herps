@@ -1,0 +1,103 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 502
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Canada ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:platycephalus genus:hydromantes year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Santa clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:29771 (Bufo)" ; Times: 2
+	Query: "genus:leptotyphlops (male OR female) hassex:1" ; Times: 1
+	Query: "CCBER" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Ambystoma californiense stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "specificepithet:mavortium genus:ambystoma stateprovince:&#34;california&#34; year &gt;= 1980" ; Times: 2
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "lampropeltis zonata pulchra" ; Times: 1
+	Query: "tantilla planiceps county:&#34;san diego&#34;" ; Times: 1
+	Query: "thamnophis hammondii county:&#34;los angeles&#34;" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Lichanura trivirgata trivirgata" ; Times: 1
+	Query: "genus:Elgaria county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "specificepithet:marmorata county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "specificepithet:minor genus:batrachoseps year &gt;= 2000" ; Times: 1
+	Query: "wetland family:Colubridae stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1892 download events in this period)
+Total number of records downloaded: 4027
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 8
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 5
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Ambystoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "Xenopus laevis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cnemidophorus hyperythrus" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Batrachoseps county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ensatina eschscholtzii croceater stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+
+
+End of report.
