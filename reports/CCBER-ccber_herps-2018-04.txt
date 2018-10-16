@@ -1,0 +1,164 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 378
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 6
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "26781" ; Times: 1
+	Query: "genus:anniella locality:Happy Camp institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella sex:male OR female" ; Times: 2
+	Query: "elgaria preparations:skeleton" ; Times: 3
+	Query: "family:Anniellidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Clemmys marmorata Ventura County" ; Times: 2
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;San diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Anniellidae hastissue:1 year &gt;= 2008" ; Times: 1
+	Query: "genus:Uma hastissue:1" ; Times: 1
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "genus:Petrosaurus sex:male OR female" ; Times: 1
+	Query: "batrachoseps minor year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "genus:Salvadora county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon bottom)" ; Times: 2
+	Query: "san joaquin crotalus" ; Times: 1
+	Query: "specificepithet:simus genus:Crotalus" ; Times: 1
+	Query: "genus:Anniella county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "genus:Leptotyphlops sex:male OR female" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pituophis Missouri" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:californicus genus:bufo county:&#34;los angeles&#34;" ; Times: 2
+	Query: "elgaria skeleton" ; Times: 3
+	Query: "family:Anniellidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:crotalus county:&#34;san luis obispo&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 1359 download events in this period)
+Total number of records downloaded: 6294
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 69
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 25
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-17 ; Times: 5
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 4
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-23 ; Times: 12
+	Date: 2018-04-20 ; Times: 10
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "spea hammondii" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "genus:Anniella sex:male OR female" ; Times: 1
+	Query: "genus:Trimorphodon sex:male OR female" ; Times: 1
+	Query: "genus:lampropeltis sex:male OR female" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Anniellidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Chionactis sex:male OR female" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:charina sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (canyon)" ; Times: 2
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "Cnemidophorus hyperythrus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Salvadora sex:male OR female" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Hypsiglena sex:male OR female" ; Times: 1
+	Query: "genus:Gambelia sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "family:Colubridae (stomach)" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Phyllorhynchus sex:male OR female" ; Times: 2
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon bottom)" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:diadophis sex:male OR female" ; Times: 1
+	Query: "sceloporus occidentalis hastissue:1" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:tantilla sex:male OR female" ; Times: 2
+	Query: "genus:plestiodon sex:male OR female" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "genus:Dipsosaurus sex:male OR female" ; Times: 2
+	Query: "genus:Lampropeltis sex:male OR female" ; Times: 1
+	Query: "Lampropeltis New Mexico" ; Times: 1
+	Query: "family:Anniellidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Elgaria sex:male OR female" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Urosaurus sex:male OR female" ; Times: 1
+
+
+End of report.
