@@ -1,0 +1,119 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 339
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-10 ; Times: 16
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-06 ; Times: 10
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "rana muscosa AND yosemite AND (NOT sierrae) year &gt;= 1970" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;California&#34; year &gt;= 1990 month &gt;= 1 month &lt;= 1" ; Times: 2
+	Query: "rana boylii county:&#34;San Benito&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "rana boylii AND clear creek county:&#34;San Benito&#34; stateprovince:&#34;California&#34; year &lt;= 1990" ; Times: 1
+	Query: "genus:anniella county:&#34;san diego&#34; stateprovince:&#34;california&#34; recordedby:mendelson" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "genus:anniella county:&#34;san bernardino&#34; year &gt;= 2004 year &lt;= 2004 month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Santa clara&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:anniella year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;los angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;San luis obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Leon county crotalus" ; Times: 1
+	Query: "rana boylii AND clear creek year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus simus simus" ; Times: 1
+	Query: "county:&#34;san diego&#34; year &gt;= 1991 year &lt;= 1991 month &gt;= 7 month &lt;= 7" ; Times: 2
+	Query: "kings canyon order:Anura" ; Times: 1
+	Query: "genus:Elgaria stateprovince:&#34;California&#34; month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "kings canyon specificepithet:muscosa year &lt;= 2000" ; Times: 1
+	Query: "yosemite specificepithet:muscosa year &gt;= 1975" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;San Diego&#34; year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "rana boylii AND clear creek year &lt;= 1987" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;el dorado&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:skiltonianus class:Reptilia county:&#34;San Diego&#34; year &gt;= 1951 year &lt;= 1990" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "specificepithet:Gilberti class:reptilia county:&#34;monterey&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:skiltonianus county:&#34;Amador&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia county:&#34;San luis obispo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 846 download events in this period)
+Total number of records downloaded: 7001
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 7
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 17
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "genus:Phrynosoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "genus:Crotaphytus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "Crotalus simus simus" ; Times: 1
+	Query: "rana draytonii vntype:specimen" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:wislizenii genus:Gambelia basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+
+
+End of report.
