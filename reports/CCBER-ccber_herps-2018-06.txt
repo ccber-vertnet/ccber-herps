@@ -1,0 +1,171 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 2399
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 88
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-24 ; Times: 7
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-17 ; Times: 22
+	Date: 2018-06-18 ; Times: 29
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "genus:Gambelia county:&#34;San Luis Obispo&#34;" ; Times: 3
+	Query: "specificepithet:simus genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:muscosa hastissue:1" ; Times: 1
+	Query: "recordedby:Breese" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Quatal county:&#34;Ventura&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:flagellum county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anniella county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 4
+	Query: "genus:Tantilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bobcat stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "phrynosoma platyrhinos locality:spring valley" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus lifestage:adult sex:male haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ)" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "genus:Sauromalus hastissue:1" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Ventura&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hydromantes county:&#34;Fresno&#34;" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:reptilia locality:Ballinger county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Anniella county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 2
+	Query: "genus:Salvadora county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "tree frogs" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:punctatus class:amphibia county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Cerastes Utah" ; Times: 1
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;california&#34; country:&#34;united states&#34;" ; Times: 4
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "agoura hills" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "class:amphibia locality:Quatal county:&#34;Ventura&#34;" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1169 download events in this period)
+Total number of records downloaded: 1698
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 7
+	Date: 2018-06-06 ; Times: 11
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bullfrog" ; Times: 3
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "bobcat" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Taricha torosa" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "order:Caudata lifestage:egg" ; Times: 1
+	Query: "specificepithet:muscosa hastissue:1" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "genus:Hydromantes county:&#34;Fresno&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "black bear" ; Times: 4
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+
+
+End of report.
