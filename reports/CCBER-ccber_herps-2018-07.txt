@@ -1,0 +1,87 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 174
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 4
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 3
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "29884" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "specificepithet:platyrhinos county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "family:Salamandridae (egg)" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;california&#34; year &gt;= 1953 year &lt;= 1953 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "Crotalus Leon county" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "genus:trimorphodon county:&#34;ventura&#34;" ; Times: 1
+	Query: "genus:rana institutioncode:CCBER" ; Times: 1
+	Query: "genus:trimorphodon county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "genus:hydromantes class:amphibia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "genus:rana county:&#34;san benito&#34; institutioncode:CCBER" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "29686" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "29140" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "specificepithet:eschscholtzii genus:Ensatina county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 977 download events in this period)
+Total number of records downloaded: 1081
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 3
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "egg order:Caudata" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "genus:Ambystoma (egg)" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "family:Salamandridae (egg)" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 1
+
+
+End of report.
