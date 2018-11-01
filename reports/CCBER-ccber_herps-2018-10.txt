@@ -1,0 +1,97 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 618
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: United Arab Emirates ; Times: 1
+	Country: Sweden ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-21 ; Times: 34
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-16 ; Times: 4
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensatina Nevada county" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian Arnold year &gt;= 1975 year &lt;= 2017" ; Times: 1
+	Query: "crotalus sonoma" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:plestiodon preparations:skeleton" ; Times: 1
+	Query: "Brian W. Arnold" ; Times: 2
+	Query: "genus:Trimorphodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "24128" ; Times: 2
+	Query: "genus:anniella county:&#34;san diego&#34; year &gt;= 1988 year &lt;= 1988" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis county:&#34;Santa Barbara&#34;" ; Times: 3
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:&#34;Arnold&#34; year &gt;= 1975 year &lt;= 2017" ; Times: 2
+	Query: "county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "county:&#34;Kern&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;san diego&#34;" ; Times: 2
+	Query: "Brian Arnold" ; Times: 21
+	Query: "country:&#34;United States&#34; recordedby:Brian Arnold year &gt;= 1976 year &lt;= 2017" ; Times: 1
+	Query: "Taricha torosa Sierra County" ; Times: 1
+	Query: "gbifdatasetid:1050a336-b87a-44b1-b0ec-6fe5fcb3d298" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian W Arnold year &gt;= 1975 year &lt;= 2017" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;road&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Monterey&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "specificepithet:atratus county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "county:&#34;Mono&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "county:&#34;San Benito&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Uma inornata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Ventura&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1300 download events in this period)
+Total number of records downloaded: 3145
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia henshawi" ; Times: 2
+	Query: "rana muscosa" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "specificepithet:laevis genus:Xenopus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
