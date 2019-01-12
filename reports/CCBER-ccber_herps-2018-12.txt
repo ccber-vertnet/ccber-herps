@@ -1,0 +1,110 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 2355
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 76
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-27 ; Times: 9
+	Date: 2018-12-15 ; Times: 17
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-04 ; Times: 27
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS) institutioncode:CCBER" ; Times: 1
+	Query: "spea hammondii county:&#34;Kern&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anniella class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS) institutioncode:CCBER" ; Times: 1
+	Query: "locality:Gordon Ferry Bridge county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "locality:Summerland county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 2018 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "Batrachoseps incognitus" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "locality:Derby Acres county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "locality:Pinnacles National county:&#34;San Benito&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS)" ; Times: 1
+	Query: "locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 2
+	Query: "specificepithet:minor genus:batrachoseps year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "locality:154 county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; year &gt;= 1984 year &lt;= 1988" ; Times: 2
+	Query: "locality:Shale county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia locality:Camarillo county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS) institutioncode:CCBER" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Ambystoma county:&#34;Santa Barbara&#34;" ; Times: 6
+	Query: "specificepithet:lateralis genus:Coluber class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS)" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 9
+	Query: "specificepithet:minor genus:Batrachoseps" ; Times: 1
+	Query: "genus:Aneides county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:minor genus:Batrachoseps year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "class:Reptilia locality:Camarillo county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS) institutioncode:CCBER" ; Times: 1
+	Query: "locality:China Grade Loop county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "(Phrynosoma) year &gt;= 1985 year &lt;= 1985 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "genus:Hypsiglena institutioncode:CCBER" ; Times: 2
+	Query: "genus:Elgaria class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS) institutioncode:CCBER" ; Times: 2
+	Query: "genus:Coluber class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS)" ; Times: 1
+	Query: "locality:Lokern county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "locality:Lost Hills county:&#34;Kern&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash)" ; Times: 1
+	Query: "genus:Tantilla institutioncode:CCBER" ; Times: 4
+	Query: "genus:Coluber class:Reptilia locality:Camarillo county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS)" ; Times: 1
+	Query: "regilla vntype:specimen county:&#34;Monterey&#34; stateprovince:&#34;California&#34; (Pseudacris)" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:Anza Borrego county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 2018 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:Casmalia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 2018 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia locality:Camarillo county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT CROTALUS)" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "genus:ensatina county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:nigriventris genus:Batrachoseps distance(location,geopoint(35.64041352431167,-121.3421630859375))&lt;26366.447050699648" ; Times: 1
+	Query: "32115" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 809 download events in this period)
+Total number of records downloaded: 306
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 1
+	Query: "genus:Cnemidophorus hastissue:1" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+
+
+End of report.
