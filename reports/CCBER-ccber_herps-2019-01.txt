@@ -1,0 +1,84 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 901
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Belgium ; Times: 4
+	Country: Canada ; Times: 10
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-19 ; Times: 7
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 4
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-15 ; Times: 5
+	Date: 2019-01-09 ; Times: 5
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-20 ; Times: 4
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:anniella county:&#34;kern&#34; recordedby:hunt year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "(elgaria) institutioncode:CCBER" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:CCBER" ; Times: 1
+	Query: "genus:coluber locality:alamos" ; Times: 2
+	Query: "recordnumber:33198" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 3
+	Query: "Crotalus mitchellii pyrrhus" ; Times: 9
+	Query: "genus:Hypsiglena locality:san marcos" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;california&#34; (1982)" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "(gerrhonotus) institutioncode:CCBER" ; Times: 1
+	Query: "31794" ; Times: 1
+	Query: "genus:coluber locality:8 stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "recordnumber:19668 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "genus:coluber locality:shasta lake" ; Times: 1
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus locality:Dillon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 17
+	Query: "specificepithet:draconoides genus:Callisaurus locality:1.5 mi W" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "genus:coluber locality:8" ; Times: 1
+	Query: "tree frogs" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 962 download events in this period)
+Total number of records downloaded: 3158
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hastissue:1" ; Times: 2
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+
+
+End of report.
