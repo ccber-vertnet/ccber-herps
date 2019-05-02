@@ -1,0 +1,109 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 1338
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: United Kingdom ; Times: 10
+	Country: Argentina ; Times: 1
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 6
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-08 ; Times: 2
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-01 ; Times: 6
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-14 ; Times: 9
+	Date: 2019-03-15 ; Times: 9
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 5
+	Date: 2019-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla planiceps" ; Times: 1
+	Query: "specificepithet:zonata county:&#34;ventura&#34;" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "genus:Hydromantes county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Lampropeltis zonata pulchra" ; Times: 1
+	Query: "Tantilla hobartsmithi" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "145 arizona elegans" ; Times: 2
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "Coluber lateralis" ; Times: 1
+	Query: "order:caudata 30045" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "crotalus pyrrhus" ; Times: 2
+	Query: "Chionactis annulata" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "25127" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 32
+	Query: "146 arizona elegans" ; Times: 1
+	Query: "genus:Lampropeltis haslength:1" ; Times: 1
+	Query: "mountain goat" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "genus:Ensatina locality:Temblor county:&#34;Kern&#34;" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1281 download events in this period)
+Total number of records downloaded: 442
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-08 ; Times: 6
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-06 ; Times: 7
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crotalus haslength:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:ensatina county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Lampropeltis haslength:1" ; Times: 2
+	Query: "specificepithet:aurora genus:rana county:&#34;humboldt&#34;" ; Times: 1
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "catesbeiana haslength:1" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides" ; Times: 1
+	Query: "specificepithet:attenuatus genus:batrachoseps county:&#34;humboldt&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:ascaphus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "specificepithet:ferreus genus:aneides" ; Times: 1
+
+
+End of report.
