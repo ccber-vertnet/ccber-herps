@@ -1,0 +1,141 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 530
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 61
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 5
+	Date: 2019-04-18 ; Times: 7
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-22 ; Times: 5
+	Date: 2019-04-23 ; Times: 6
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 6
+	Date: 2019-04-27 ; Times: 3
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 11
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coluber flagellum mappable:1" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "genus:elgaria preparations:skeleton" ; Times: 9
+	Query: "specificepithet:marmorata genus:Clemmys stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "jalama genus:rana" ; Times: 4
+	Query: "specificepithet:multicarinata genus:elgaria preparations:skeleton" ; Times: 1
+	Query: "anniella carrizo" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:batrachoseps year &gt;= 1977" ; Times: 1
+	Query: "specificepithet:minor genus:batrachoseps" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;monterey&#34;" ; Times: 4
+	Query: "honda genus:rana county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:uta locality:Frazier year &gt;= 1977" ; Times: 2
+	Query: "UCSB Holland" ; Times: 2
+	Query: "specificepithet:Zonata genus:Lampropeltis month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "ccber 2574" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "genus:uta county:&#34;Riverside&#34; year &gt;= 1977" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "sweet vntype:specimen specificepithet:punctatus genus:diadophis" ; Times: 1
+	Query: "genus:Ensatina county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:hyperythrus genus:Cnemidophorus" ; Times: 2
+	Query: "33461" ; Times: 1
+	Query: "county:&#34;san luis obispo&#34; year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "ccber 1593" ; Times: 2
+	Query: "sweet vntype:specimen specificepithet:punctatus genus:diadophis year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:gilberti genus:plestiodon county:&#34;el dorado&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Urosaurus graciosus Kern County" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "specificepithet:Eschscholtzii genus:Ensatina county:&#34;Kern&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "san antonio genus:rana county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "county:&#34;san luis obispo&#34; (creek) year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "Urosaurus Kern County" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1263 download events in this period)
+Total number of records downloaded: 2472
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "taricha sierra" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:hyperythrus genus:Cnemidophorus" ; Times: 2
+	Query: "specificepithet:ferreus genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
