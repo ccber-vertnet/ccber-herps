@@ -1,0 +1,91 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 180
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Belgium ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 3
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-22 ; Times: 5
+	Date: 2019-05-18 ; Times: 3
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-17 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Scaphiopus intermontanus" ; Times: 2
+	Query: "locality:Santa Maria county:&#34;santa barbara&#34; recordedby:Hunt" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Santa clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "crotalus simus" ; Times: 1
+	Query: "specificepithet:microscutatus county:&#34;san diego&#34;" ; Times: 2
+	Query: "catalognumber:29454 institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:scutulatus genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:charina county:&#34;riverside&#34;" ; Times: 4
+	Query: "specificepithet:oreganus genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Amphibia distance(location,geopoint(34.72604488250409,-120.34965476951368))&lt;16857.984152305136" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34;" ; Times: 1
+	Query: "Desert tortoise" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 6
+	Query: "Lichanura" ; Times: 3
+	Query: "specificepithet:cerastes genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "22839 hastissue:1" ; Times: 1
+	Query: "family:emydidae county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 940 download events in this period)
+Total number of records downloaded: 798
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus simus" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Amphibia distance(location,geopoint(34.72604488250409,-120.34965476951368))&lt;16857.984152305136" ; Times: 1
+	Query: "Rana draytonii vntype:specimen" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Rana aurora draytonii vntype:specimen" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana" ; Times: 1
+	Query: "family:emydidae county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+
+
+End of report.
