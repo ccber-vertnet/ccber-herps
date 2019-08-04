@@ -1,0 +1,134 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 2914
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: Nepal ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 3
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-19 ; Times: 10
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-29 ; Times: 10
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-16 ; Times: 5
+	Date: 2019-07-07 ; Times: 6
+	Date: 2019-07-06 ; Times: 8
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-20 ; Times: 10
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "A.31512" ; Times: 1
+	Query: "genus:Xenopus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "rana muscosa hastissue:1" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:gaviota institutioncode:CCBER" ; Times: 3
+	Query: "catalognumber:30436 institutioncode:CCBER" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:rana county:&#34;yuba&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus (helleri)" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "specificepithet:californicus genus:Bufo county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "rana (&#34;muscosa&#34; OR &#34;sierrae&#34;) hastissue:1" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1995 hastissue:1" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "muscosa hastissue:1" ; Times: 2
+	Query: "genus:Crotaphytus specificepithet:bicinctores" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Riverside&#34;" ; Times: 3
+	Query: "genus:rana collectioncode:herps institutioncode:CCBER" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "locality:gaviota recordedby:christopher institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:bicinctores genus:Crotaphytus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Phrynosoma stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 2019" ; Times: 1
+	Query: "Rana aurora" ; Times: 3
+	Query: "Santa Rosa County Crotalus" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "Laughrin AND Island" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "county:&#34;santa barbara&#34; collectioncode:herps year &gt;= 1996 year &lt;= 1996 institutioncode:CCBER" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "genus:rana county:&#34;santa barbara&#34; collectioncode:herps institutioncode:CCBER" ; Times: 2
+	Query: "locality:gaviota collectioncode:herps institutioncode:CCBER" ; Times: 1
+	Query: "Laughrin" ; Times: 2
+	Query: "specificepithet:sila genus:Gambelia" ; Times: 1
+	Query: "&#34;rana muscosa&#34; hastissue:1" ; Times: 3
+	Query: "genus:Plestiodon stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "tree frogs" ; Times: 2
+	Query: "Rana aurora draytonii" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 8
+	Query: "23148" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "crotalus cerastes utah" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 985 download events in this period)
+Total number of records downloaded: 1550
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-31 ; Times: 8
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana muscosa hastissue:1" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "rana (&#34;muscosa&#34; OR &#34;sierrae&#34;) hastissue:1" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "genus:Plestiodon stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bicinctores genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Plestiodon" ; Times: 1
+
+
+End of report.
