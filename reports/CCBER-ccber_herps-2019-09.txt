@@ -1,0 +1,430 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 589
+Number of records retrieved in searches: 16124
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 588
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 35
+	Date: 2019-09-15 ; Times: 33
+	Date: 2019-09-16 ; Times: 21
+	Date: 2019-09-17 ; Times: 60
+	Date: 2019-09-10 ; Times: 4
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 86
+	Date: 2019-09-13 ; Times: 28
+	Date: 2019-09-18 ; Times: 53
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-06 ; Times: 26
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-21 ; Times: 23
+	Date: 2019-09-20 ; Times: 10
+	Date: 2019-09-23 ; Times: 32
+	Date: 2019-09-22 ; Times: 104
+	Date: 2019-09-25 ; Times: 54
+	Date: 2019-09-24 ; Times: 3
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "27957" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Simmler county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sceloporus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT OCCIDENTALIS NOT GRACIOSUS)" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SDNHM)" ; Times: 1
+	Query: "specificepithet:trivirgata genus:Charina county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT ELGARIA NOT THAMNOPHIS) institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Lebec county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:trivirgata genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS )" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Wofford Heights county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Trimorphodon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Thousand Oaks county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "class:Reptilia locality:Camarillo county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:Ventura county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Onyx county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:torquata genus:Hypsiglena county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Plestiodon class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT ELGARIA NOT THAMNOPHIS NOT XANTUSIA NOT ASPIDOSCELIS) institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "genus:trachemys stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Plestiodon class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Leptotyphlops class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Rhinocheilus class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS )" ; Times: 1
+	Query: "genus:Sceloporus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 3
+	Query: "specificepithet:scutulatus genus:Crotalus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Pituophis class:Reptilia county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 2
+	Query: "genus:Rhinocheilus class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "class:Reptilia locality:Missouri Triangle county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "class:Reptilia locality:Randsburg county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Trimorphodon class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Crotalus county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "class:Reptilia locality:Bena county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 1
+	Query: "genus:Xantusia class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT THAMNOPHIS NOT ASPIDOSCELIS) institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 1
+	Query: "genus:Arizona county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Cnemidophorus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT THAMNOPHIS ) institutioncode:CCBER" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Coluber class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;California&#34; year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 9
+	Query: "genus:Cnemidophorus class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS )" ; Times: 1
+	Query: "class:Reptilia locality:Carrizo Plain county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:lateralis genus:Coluber class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 2
+	Query: "class:Reptilia locality:Kernville county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Coluber county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "class:Reptilia locality:Randsburg county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS)" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Uta class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus hastissue:1" ; Times: 2
+	Query: "Catalina Marine Science Center" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Holmgren AND Cruz Island" ; Times: 2
+	Query: "class:Reptilia locality:La Panza county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT HAMMONDII)" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Arizona class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ) institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:Lost Hills county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anniella class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 1989 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Plestiodon county:&#34;Santa barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1960 month &gt;= 1" ; Times: 1
+	Query: "genus:Uta class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus class:Reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Arizona class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Arizona class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:California Valley county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Gambelia county:&#34;Ventura&#34;" ; Times: 11
+	Query: "class:Reptilia locality:Inyokern county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:thamnophis county:&#34;san luis obispo&#34;" ; Times: 2
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "class:Reptilia locality:California City county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ)" ; Times: 2
+	Query: "genus:Arizona class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS )" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Chionactis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Bodfish county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT ASPIDOSCELIS NOT SCELOPORUS)" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:San Nicholas Island county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena hastissue:1" ; Times: 2
+	Query: "genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Leptotyphlops county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 84
+	Query: "genus:Lampropeltis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Willow Springs county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Phrynosoma class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "genus:Anniella class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:berlandieri county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:Tantilla county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber class:Reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "genus:Crotalus class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 5
+	Query: "genus:Tantilla class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 6
+	Query: "genus:Anniella class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT ELGARIA NOT THAMNOPHIS NOT XANTUSIA NOT ASPIDOSCELIS) institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Salvadora class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2000 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Arizona class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "genus:Hypsiglena class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Chionactis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "genus:Gambelia class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 2
+	Query: "genus:Aspidoscelis class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:Canebrake county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Arizona county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Cnemidophorus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus class:Reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "class:Reptilia locality:Cameron county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "genus:Diadophis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT ELGARIA NOT XANTUSIA NOT CROTAPHYTUS)" ; Times: 1
+	Query: "genus:Elgaria class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "genus:Sceloporus class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Gambelia class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 2
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "genus:Cnemidophorus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT OCCIDENTALIS NOT GRACIOSUS)" ; Times: 1
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Elgaria class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT THAMNOPHIS NOT XANTUSIA NOT ASPIDOSCELIS) institutioncode:CCBER" ; Times: 1
+	Query: "genus:Hypsiglena class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:thamnophis county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Onyx county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA)" ; Times: 1
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Rhinocheilus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Phrynosoma class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Rhinocheilus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 2
+	Query: "class:Reptilia locality:Annette county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "genus:Coluber class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Rhinocheilus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1970 year &lt;= 1979 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 2
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ANNIELLA NOT XANTUSIA NOT THAMNOPHIS NOT PLESTIODON NOT ELGARIA NOT CROTALUS NOT PITUOPHIS NOT PHRYNOSOMA NOT ASPIDOCELIS)" ; Times: 4
+	Query: "genus:Plestiodon class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:Piru county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:multicarinata genus:Elgaria county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:gilberti genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Cnemidophorus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT THAMNOPHIS NOT ASPIDOSCELIS) institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Xantusia class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian Arnold year &gt;= 1978 year &lt;= 2016 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "genus:Phyllorhynchus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Caliente county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Salvadora class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS )" ; Times: 1
+	Query: "genus:Chionactis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT VIGILIS)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT EUMECES NOT HYPSIGLENA NOT ELGARIA NOT UTA NOT SCELOPORUS NOT PLESTIODON NOT ANNIELLA NOT GAMBELIA NOT THAMNOPHIS NOT CROTALUS NOT THAMNOPHIS NOT MASTICOPHIS NOT COLUBER NOT LAMPROPELTIS NOT DIADOPHIS NOT XANTUSIA NOT PHRYNOSOMA NOT ASPIDOSCELIS NOT PITUOPHIS)" ; Times: 3
+	Query: "genus:Coluber class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Plestiodon class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SIRTALIS NOT HAMMONDI)" ; Times: 1
+	Query: "genus:Arizona county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:simus genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:charina county:&#34;riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:scaphiopus" ; Times: 1
+	Query: "genus:Tantilla class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT HAMMONDII NOT COUCHII)" ; Times: 1
+	Query: "genus:Gambelia county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS )" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT ELGARIA) institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Weldon county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Fillmore county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "genus:Salvadora county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Diadophis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 26
+	Query: "genus:Leptotyphlops county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "genus:Ensatina class:Amphibia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Coluber county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian W. Arnold year &gt;= 1978 year &lt;= 2016 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Xantusia class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT SCELOPORUS NOT UTA NOT ELGARIA NOT THAMNOPHIS NOT XANTUSIA NOT ASPIDOSCELIS) institutioncode:CCBER" ; Times: 4
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT OCCIDENTALIS NOT GRACIOSUS)" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SIRTALIS NOT HAMMONDI NOT COUCHII)" ; Times: 1
+	Query: "class:Reptilia locality:Taft county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 1
+	Query: "specificepithet:hammondii genus:scaphiopus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 1989 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT SDMNH NOT MVZ NOT USNM NOT KU NOT CM)" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian W Arnold year &gt;= 1978 year &lt;= 2016 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "class:Reptilia locality:Rand county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "genus:Sceloporus county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT OCCIDENTALIS)" ; Times: 1
+	Query: "class:Reptilia locality:Lake Isabella county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Xantusia class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 2
+	Query: "genus:UTA class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Elgaria class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Chionactis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "class:Reptilia locality:South Lake county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Cnemidophorus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "genus:Thamnophis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Elgaria county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "genus:Salvadora county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 3
+	Query: "specificepithet:cerastes genus:Crotalus class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS )" ; Times: 1
+	Query: "genus:Rhinocheilus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Coluber class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Mojave county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB NOT XANTUSIA)" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:Derby Acres county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS NOT UCMP NOT PBDB)" ; Times: 1
+	Query: "genus:Trimorphodon class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1073 download events in this period)
+Total number of records downloaded: 2047
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magister genus:Sceloporus hastissue:1" ; Times: 2
+	Query: "specificepithet:graciosus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "Catalina Marine Science Center" ; Times: 1
+	Query: "Diadophis punctatus hastissue:1" ; Times: 1
+	Query: "genus:aspidoscelis hastissue:1" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "genus:Gambelia county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "Coluber taeniatus" ; Times: 1
+	Query: "boreas vntype:specimen hastissue:1" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Ventura&#34;" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "Thamnophis sirtalis hastissue:1" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Santa Barbara&#34;" ; Times: 1
+
+
+End of report.
