@@ -1,0 +1,211 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 280
+Number of records retrieved in searches: 2868
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 277
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-14 ; Times: 10
+	Date: 2020-02-03 ; Times: 59
+	Date: 2020-02-13 ; Times: 16
+	Date: 2020-02-11 ; Times: 64
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 9
+	Date: 2020-02-20 ; Times: 22
+	Date: 2020-02-21 ; Times: 4
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-08 ; Times: 7
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-02 ; Times: 64
+	Date: 2020-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma lifestage:egg" ; Times: 1
+	Query: "&#34;Ambystoma californiense&#34; stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:14838 institutioncode:CCBER" ; Times: 1
+	Query: "cROTALUS SIMUS" ; Times: 1
+	Query: "catalognumber:14840 institutioncode:CCBER" ; Times: 1
+	Query: "Rana draytonii 132" ; Times: 3
+	Query: "Rana aurora draytonii 2015" ; Times: 1
+	Query: "Rana aurora draytonii 2016" ; Times: 1
+	Query: "Rana draytonii 139" ; Times: 3
+	Query: "Rana aurora draytonii 2013" ; Times: 1
+	Query: "Rana draytonii 227" ; Times: 3
+	Query: "14846" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Tantilla county:&#34;Ventura&#34;" ; Times: 4
+	Query: "genus:Crotalus oreganus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Rana draytonii 141" ; Times: 3
+	Query: "Rana draytonii 146" ; Times: 3
+	Query: "Rana aurora draytonii 2005" ; Times: 1
+	Query: "Rana aurora draytonii 2004" ; Times: 1
+	Query: "genus:Crotalus oreganus year &gt;= 2007 year &lt;= 2018" ; Times: 1
+	Query: "Rana draytonii 1995" ; Times: 7
+	Query: "Rana draytonii 1994" ; Times: 7
+	Query: "Rana draytonii 204" ; Times: 3
+	Query: "uma inornata stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Rana draytonii 154" ; Times: 3
+	Query: "Rana draytonii 159" ; Times: 3
+	Query: "24101" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 3
+	Query: "genus:Salvadora county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 10
+	Query: "thamnophis hammondii hastissue:1" ; Times: 2
+	Query: "Rana draytonii 2013" ; Times: 7
+	Query: "Rana draytonii 15" ; Times: 3
+	Query: "Rana draytonii year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Rana draytonii 11" ; Times: 3
+	Query: "Rana draytonii 10" ; Times: 3
+	Query: "Rana draytonii 12" ; Times: 6
+	Query: "Rana draytonii 2015" ; Times: 7
+	Query: "Rana draytonii 19" ; Times: 3
+	Query: "Rana draytonii 18" ; Times: 3
+	Query: "Rana draytonii 164" ; Times: 3
+	Query: "specificepithet:hammondii genus:scaphiopus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "Rana draytonii 169" ; Times: 3
+	Query: "Rana aurora draytonii 1994" ; Times: 1
+	Query: "Rana aurora draytonii 1995" ; Times: 1
+	Query: "Rana draytonii 96" ; Times: 3
+	Query: "stateprovince:&#34;California&#34; (Ambystoma californiense) year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "genus:Rana county:&#34;santa barbara&#34;" ; Times: 4
+	Query: "Rana draytonii 1953" ; Times: 5
+	Query: "27725" ; Times: 1
+	Query: "Rana draytonii 2010" ; Times: 7
+	Query: "Rana draytonii 179" ; Times: 3
+	Query: "Rana draytonii 178" ; Times: 3
+	Query: "recordedby:Norm Scott year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "genus:ambystoma lifestage:egg" ; Times: 1
+	Query: "Rana draytonii 2016" ; Times: 7
+	Query: "Rana draytonii 173" ; Times: 3
+	Query: "Rana draytonii 172" ; Times: 3
+	Query: "specificepithet:pulchra genus:anniella institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:punctatus genus:bufo stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "Rana draytonii 182" ; Times: 3
+	Query: "Rana draytonii 183" ; Times: 3
+	Query: "Rana draytonii 181" ; Times: 3
+	Query: "Rana draytonii 342" ; Times: 3
+	Query: "Rana draytonii 343" ; Times: 3
+	Query: "genus:Xantusia county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "Rana draytonii 30" ; Times: 3
+	Query: "Rana draytonii 2004" ; Times: 7
+	Query: "Rana draytonii 2005" ; Times: 7
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Rana draytonii 109" ; Times: 3
+	Query: "Rana draytonii 101" ; Times: 3
+	Query: "year &gt;= 1997 year &lt;= 1998 institutioncode:CCBER" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Ambystoma Californiense) hastissue:1" ; Times: 1
+	Query: "uma inornata stateprovince:&#34;california&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:woodhousii locality:mecca county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:14839 institutioncode:CCBER" ; Times: 1
+	Query: "Rana draytonii 359" ; Times: 3
+	Query: "Rana draytonii 352" ; Times: 3
+	Query: "Rana draytonii 24" ; Times: 3
+	Query: "specificepithet:woodhousii locality:mecca county:&#34;riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rana draytonii 27" ; Times: 3
+	Query: "Rana draytonii 21" ; Times: 3
+	Query: "Rana draytonii 22" ; Times: 3
+	Query: "order:caudata county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:scaphiopus" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "Rana draytonii 58" ; Times: 3
+	Query: "Rana draytonii 207" ; Times: 3
+	Query: "Rana draytonii 200" ; Times: 3
+	Query: "institutioncode:CCBER hastissue:1" ; Times: 4
+	Query: "thamnophis ordinoides stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:ruber genus:crotalus stateprovince:&#34;California&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "genus:Tantilla county:&#34;Santa Barbara&#34;" ; Times: 4
+	Query: "Rana draytonii 8" ; Times: 3
+	Query: "Rana draytonii 5" ; Times: 3
+	Query: "Rana draytonii 4" ; Times: 3
+	Query: "Rana draytonii 7" ; Times: 3
+	Query: "Rana draytonii 6" ; Times: 3
+	Query: "Rana draytonii 1" ; Times: 1
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "Rana draytonii 2" ; Times: 3
+	Query: "family:bufonidae locality:mecca stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rana draytonii 123" ; Times: 3
+	Query: "genus:Batrachoseps nigriventris year &gt;= 2012 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Riverside&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1023 download events in this period)
+Total number of records downloaded: 5566
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Belgium ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-24 ; Times: 4
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-21 ; Times: 3
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "genus:Rana locality:Yosemite" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Rana county:&#34;Mariposa&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "recordedby:Norm Scott year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "class:Amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "Uma scoparia" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "thamnophis hammondii hastissue:1" ; Times: 1
+	Query: "thamnophis ordinoides stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Taricha" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "year &gt;= 1997 year &lt;= 1998 institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:woodhousii locality:mecca county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:rana county:&#34;Tuolumne&#34;" ; Times: 1
+	Query: "thamnophis atratus stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+
+
+End of report.
