@@ -1,0 +1,133 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 6356
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 130
+	Country: Hungary ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-22 ; Times: 40
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-26 ; Times: 3
+	Date: 2019-10-24 ; Times: 9
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 24
+	Date: 2019-10-16 ; Times: 7
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-20 ; Times: 7
+	Date: 2019-10-18 ; Times: 3
+	Date: 2019-10-15 ; Times: 25
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gopherus agassizii 2013" ; Times: 1
+	Query: "Uma scoparia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Ambystoma californiense 1989" ; Times: 3
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "Gopherus agassizii 2015" ; Times: 1
+	Query: "locality:vandenberg recordedby:christopher year &gt;= 1995 year &lt;= 1995" ; Times: 1
+	Query: "Ambystoma californiense 1985" ; Times: 2
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Ambystoma californiense 1986" ; Times: 2
+	Query: "specificepithet:regilla genus:pseudacris hastissue:1" ; Times: 2
+	Query: "Ambystoma californiense 1982" ; Times: 3
+	Query: "genus:Crotalus county:&#34;santa barbara&#34;" ; Times: 5
+	Query: "10109" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea recordedby:sweet institutioncode:CCBER" ; Times: 1
+	Query: "locality:rancho rd recordedby:christopher" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "locality:tangair rd" ; Times: 2
+	Query: "Rana draytonii 2010" ; Times: 1
+	Query: "Rana draytonii 2013" ; Times: 1
+	Query: "CCBER 29340" ; Times: 2
+	Query: "Rana draytonii 2016" ; Times: 1
+	Query: "Ambystoma californiense 1996" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Santa barbara&#34;" ; Times: 3
+	Query: "Ambystoma californiense 2006" ; Times: 3
+	Query: "locality:vandenberg recordedby:christopher" ; Times: 1
+	Query: "Ambystoma californiense 2012" ; Times: 3
+	Query: "recordedby:gina butala" ; Times: 1
+	Query: "Ambystoma californiense 2010" ; Times: 3
+	Query: "Ambystoma californiense 2011" ; Times: 3
+	Query: "Ambystoma californiense 2016" ; Times: 3
+	Query: "Gopherus agassizii 1986" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Ambystoma californiense 2015" ; Times: 3
+	Query: "Gopherus agassizii 1987" ; Times: 1
+	Query: "Ambystoma californiense 2005" ; Times: 3
+	Query: "Ambystoma californiense 1987" ; Times: 3
+	Query: "Ambystoma californiense 2002" ; Times: 3
+	Query: "23763" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;santa barbara&#34; recordedby:sweet institutioncode:CCBER" ; Times: 1
+	Query: "CCBER 29340 hastissue:1" ; Times: 1
+	Query: "Ambystoma californiense 2013" ; Times: 3
+	Query: "Rana draytonii 2015" ; Times: 1
+	Query: "locality:vandenberg recordedby:christopher year &gt;= 1995 year &lt;= 1995 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Rana draytonii 2004" ; Times: 1
+	Query: "Rana draytonii 2005" ; Times: 1
+	Query: "locality:tangair" ; Times: 1
+	Query: "locality:el rancho rd" ; Times: 1
+	Query: "Ambystoma californiense 2009" ; Times: 3
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 17
+	Query: "Ambystoma californiense 2008" ; Times: 3
+	Query: "recordedby:morgan ball" ; Times: 2
+	Query: "Ambystoma californiense 1991" ; Times: 3
+	Query: "Ambystoma californiense 2001" ; Times: 3
+	Query: "Ambystoma californiense 2000" ; Times: 3
+	Query: "Ambystoma californiense 2003" ; Times: 3
+	Query: "Ambystoma californiense 1995" ; Times: 3
+	Query: "32783" ; Times: 1
+	Query: "genus:rana (sierrae OR muscosa) hastissue:1" ; Times: 1
+	Query: "Ambystoma californiense 1973" ; Times: 3
+	Query: "Rana draytonii 1995" ; Times: 1
+	Query: "Rana draytonii 1994" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1308 download events in this period)
+Total number of records downloaded: 1344
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana year &gt;= 1980" ; Times: 1
+	Query: "california red-legged frog" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "chuckwalla" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
