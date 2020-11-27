@@ -1,0 +1,187 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 2467
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 113
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-31 ; Times: 44
+	Date: 2020-03-18 ; Times: 3
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-23 ; Times: 5
+	Date: 2020-03-14 ; Times: 3
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 5
+	Date: 2020-03-10 ; Times: 14
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 12
+	Date: 2020-03-08 ; Times: 2
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-05 ; Times: 4
+	Date: 2020-03-04 ; Times: 5
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "specificepithet:platyrhinos county:&#34;riverside&#34;" ; Times: 2
+	Query: "genus:Rhinocheilus county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Anniella county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Santa Rosa County pituophis" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "genus:Tantilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Mitchellii genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ensatina county:&#34;Ventura&#34;" ; Times: 3
+	Query: "specificepithet:platyrhinos county:&#34;san bernardino&#34;" ; Times: 2
+	Query: "genus:Trimorphodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;Los Angeles&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;San luis obispo&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;los angeles&#34;" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "institutioncode:CCBER" ; Times: 1
+	Query: "genus:Contia county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:stansburiana genus:Uta locality:Santa Barbara Island" ; Times: 1
+	Query: "specificepithet:Atratus genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT HAMMONDI NOT COUCHII)" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "specificepithet:Hammondii genus:Thamnophis county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:charina stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "24123" ; Times: 1
+	Query: "genus:Arizona county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;san diego&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 2
+	Query: "31896" ; Times: 1
+	Query: "genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:gilberti genus:Plestiodon county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Atratus genus:Thamnophis county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos county:&#34;Kern&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;riverside&#34;" ; Times: 2
+	Query: "32113" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Salvadora county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Hammondii genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "13715" ; Times: 2
+	Query: "genus:Diadophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:lateralis genus:Coluber county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Arizona county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "24177" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "genus:Salvadora stateprovince:&#34;california&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phrynosoma coronatum hastissue:1" ; Times: 1
+	Query: "genus:Anniella county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 853 download events in this period)
+Total number of records downloaded: 1261
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Crotalus simus" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "genus:Sonora" ; Times: 1
+	Query: "Phrynosoma coronatum hastissue:1" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1970 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+
+
+End of report.
