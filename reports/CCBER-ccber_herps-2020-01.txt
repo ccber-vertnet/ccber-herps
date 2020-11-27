@@ -1,0 +1,188 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 310
+Number of records retrieved in searches: 4508
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 306
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 7
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-08 ; Times: 7
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-09 ; Times: 4
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 67
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-29 ; Times: 25
+	Date: 2020-01-30 ; Times: 169
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tigrinum genus:Ambystoma hastissue:1" ; Times: 1
+	Query: "genus:Gambelia county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Kern&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:lawrence hunt" ; Times: 7
+	Query: "specificepithet:elegans class:reptilia county:&#34;ventura&#34;" ; Times: 1
+	Query: "Rana draytonii 132" ; Times: 4
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Rana draytonii 139" ; Times: 4
+	Query: "recordnumber:24995" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rana draytonii 227" ; Times: 4
+	Query: "specificepithet:elegans county:&#34;ventura&#34;" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "sila Gambelia" ; Times: 1
+	Query: "Rana draytonii 141" ; Times: 4
+	Query: "Rana draytonii 146" ; Times: 4
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 5
+	Query: "Rana draytonii 1995" ; Times: 6
+	Query: "Rana draytonii 1994" ; Times: 6
+	Query: "Rana draytonii 58" ; Times: 4
+	Query: "genus:Batrachoseps class:amphibia county:&#34;Santa Barbara&#34; year &gt;= 2004" ; Times: 2
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Ventura&#34; institutioncode:CCBER" ; Times: 1
+	Query: "genus:Anniella county:&#34;San luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "13990" ; Times: 1
+	Query: "Rana draytonii 154" ; Times: 4
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ccber sonora semiannulata" ; Times: 1
+	Query: "specificepithet:canorus genus:Bufo" ; Times: 1
+	Query: "Rana draytonii 179" ; Times: 4
+	Query: "Rana draytonii 15" ; Times: 4
+	Query: "Rana draytonii 11" ; Times: 4
+	Query: "Rana draytonii 10" ; Times: 4
+	Query: "Rana draytonii 12" ; Times: 8
+	Query: "specificepithet:flagellum genus:Coluber county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:marmorata order:Testudines county:&#34;Los Angeles&#34;" ; Times: 2
+	Query: "Rana draytonii 19" ; Times: 4
+	Query: "Rana draytonii 18" ; Times: 4
+	Query: "Rana draytonii 164" ; Times: 4
+	Query: "genus:Callisaurus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "genus:Anniella county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "Rana draytonii 169" ; Times: 4
+	Query: "Rana draytonii 96" ; Times: 4
+	Query: "recordnumber:30835 institutioncode:CCBER" ; Times: 2
+	Query: "Rana draytonii 1953" ; Times: 5
+	Query: "thamnophis sirtalis mexico" ; Times: 1
+	Query: "Rana draytonii 2010" ; Times: 6
+	Query: "Rana draytonii 2013" ; Times: 6
+	Query: "Rana draytonii 178" ; Times: 4
+	Query: "Rana draytonii 2015" ; Times: 6
+	Query: "Rana draytonii 2016" ; Times: 6
+	Query: "Rana draytonii 173" ; Times: 4
+	Query: "Rana draytonii 172" ; Times: 4
+	Query: "recordedby:hunt year &gt;= 1980 year &lt;= 2010" ; Times: 1
+	Query: "Rana draytonii 182" ; Times: 4
+	Query: "Rana draytonii 183" ; Times: 4
+	Query: "Rana draytonii 181" ; Times: 4
+	Query: "Rana draytonii 342" ; Times: 4
+	Query: "Rana draytonii 343" ; Times: 4
+	Query: "genus:Xantusia county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "Rana draytonii 30" ; Times: 4
+	Query: "Rana draytonii 2004" ; Times: 6
+	Query: "Rana draytonii 2005" ; Times: 6
+	Query: "Thamnophis sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rana draytonii 109" ; Times: 4
+	Query: "Rana draytonii 101" ; Times: 4
+	Query: "Thamnophis sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rana draytonii 359" ; Times: 4
+	Query: "Rana draytonii 352" ; Times: 4
+	Query: "Rana draytonii 24" ; Times: 4
+	Query: "Rana draytonii 27" ; Times: 4
+	Query: "Rana draytonii 21" ; Times: 4
+	Query: "Rana draytonii 22" ; Times: 4
+	Query: "genus:tantilla county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "Rana draytonii 123" ; Times: 4
+	Query: "Rana draytonii 204" ; Times: 4
+	Query: "Rana draytonii 207" ; Times: 4
+	Query: "Rana draytonii 200" ; Times: 4
+	Query: "catalognumber:30835 institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:californicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:simus genus:Crotalus" ; Times: 2
+	Query: "genus:Tantilla county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "Rana draytonii 8" ; Times: 4
+	Query: "genus:batrachoseps county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Rana draytonii 5" ; Times: 4
+	Query: "Rana draytonii 4" ; Times: 4
+	Query: "Rana draytonii 7" ; Times: 4
+	Query: "Rana draytonii 6" ; Times: 4
+	Query: "Rana draytonii 1" ; Times: 2
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "Rana draytonii 2" ; Times: 4
+	Query: "Rana draytonii 159" ; Times: 4
+	Query: "specificepithet:hammondii genus:spea county:&#34;madera&#34;" ; Times: 1
+	Query: "genus:Xantusia county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "specificepithet:cadaverina county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 10
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1584 download events in this period)
+Total number of records downloaded: 3924
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-30 ; Times: 2
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnophis sirtalis county:&#34;Kern&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 3
+	Query: "rana draytonii" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
