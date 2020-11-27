@@ -1,0 +1,159 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 3223
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 120
+	Country: Thailand ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-04 ; Times: 13
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-12 ; Times: 3
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-06 ; Times: 15
+	Date: 2019-12-10 ; Times: 11
+	Date: 2019-12-11 ; Times: 12
+	Date: 2019-12-05 ; Times: 50
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 3
+	Date: 2019-12-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:regilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34; catalognumber:9966 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:25120 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:minor class:amphibia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:29284 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:trachemys class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "order:Anura class:Amphibia catalognumber:30525 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catesbeiana county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Anura class:Amphibia catalognumber:29833 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:elegans class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "genus:Spea county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "order:Anura class:Amphibia county:&#34;San Luis Obispo&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catesbeiana county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:29343 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis county:&#34;santa barbara&#34;" ; Times: 2
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:16892 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "order:Anura class:Amphibia catalognumber:29827 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia county:&#34;San Luis Obispo&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia county:&#34;Los Angeles&#34; catalognumber:17836 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:californiense class:amphibia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:torosa class:amphibia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:eschscholtzii class:amphibia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:regilla class:amphibia stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2010" ; Times: 2
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:9854 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:28985 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:9840 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia locality:Palm Canyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:minor genus:Batrachoseps" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:27843 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aurora county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:laevis class:amphibia stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2010" ; Times: 1
+	Query: "order:Anura class:Amphibia catalognumber:29831 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:16891 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "Crotalus scutulatus haslength:1" ; Times: 1
+	Query: "specificepithet:couchii genus:thamnophis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:catesbeiana class:amphibia stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:californicus genus:Bufo county:&#34;Ventura&#34;" ; Times: 2
+	Query: "specificepithet:hexalepis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:29436 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "order:Anura class:Amphibia catalognumber:29828 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aurora county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:batrachoseps class:amphibia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:12278 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aurora county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:punctatus class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:vigilis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:29361 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2010" ; Times: 1
+	Query: "genus:uta stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "specificepithet:regilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34; catalognumber:9967 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:graciosus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:nigriventris class:amphibia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 5
+	Query: "specificepithet:vigilis class:reptilia county:&#34;riverside&#34;" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:29291 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia county:&#34;Los Angeles&#34; catalognumber:14138 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catenifer class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; catalognumber:30525 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catesbeiana county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:29342 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:9853 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:californicus class:amphibia stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2010" ; Times: 1
+	Query: "order:Anura class:Amphibia catalognumber:29829 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "class:Amphibia county:&#34;Los Angeles&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:blainvillii class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "specificepithet:regilla county:&#34;Ventura&#34; stateprovince:&#34;California&#34; catalognumber:9968 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Spea county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "ensatina eschscholtzii croceater" ; Times: 1
+	Query: "order:Anura class:Amphibia catalognumber:29832 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; catalognumber:29827 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis county:&#34;monterey&#34;" ; Times: 1
+	Query: "specificepithet:mavortium class:amphibia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "specificepithet:draytonii class:amphibia stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;kern&#34;" ; Times: 4
+	Query: "specificepithet:cadaverina order:Anura class:Amphibia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:marmorata class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:9839 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catesbeiana county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:cadaverina county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:gilberti class:reptilia county:&#34;santa barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:draytonii county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:30637 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; catalognumber:29831 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Anura class:Amphibia catalognumber:11398 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 7
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; catalognumber:11745 institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 596 download events in this period)
+Total number of records downloaded: 2327
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Belgium ; Times: 3
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 3
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:cadaverina order:Anura class:Amphibia county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "anniella pulchra" ; Times: 1
+	Query: "&#34;Crotalus cerastes cerastes&#34;" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+
+End of report.
