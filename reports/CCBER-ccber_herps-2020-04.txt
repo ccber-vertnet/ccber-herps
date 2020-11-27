@@ -1,0 +1,119 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 566
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 7
+	Date: 2020-04-02 ; Times: 6
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-13 ; Times: 5
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "San Martin AND Elgaria" ; Times: 1
+	Query: "genus:tantilla county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:Constrictor genus:Coluber county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;san bernardino&#34;" ; Times: 2
+	Query: "specificepithet:hammondii genus:spea year &gt;= 2001 year &lt;= 2001" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "26821" ; Times: 2
+	Query: "specificepithet:Atratus county:&#34;San Luis Obispo&#34;" ; Times: 3
+	Query: "25093" ; Times: 1
+	Query: "Lampropeltis zonata pulchra" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus county:&#34;Ventura&#34;" ; Times: 2
+	Query: "specificepithet:decurtatus county:&#34;kern&#34;" ; Times: 3
+	Query: "specificepithet:hammondii genus:Scaphiopus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "zonata county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:flagellum county:&#34;ventura&#34;" ; Times: 2
+	Query: "specificepithet:cerastes county:&#34;kern&#34;" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:Cadaverina county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:flagellum county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus county:&#34;riverside&#34;" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:Zonata county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Rana class:Amphibia locality:Gravel stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Hammondii genus:Thamnophis county:&#34;Santa Barbara&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1171 download events in this period)
+Total number of records downloaded: 7515
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Australia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-06 ; Times: 4
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 14
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "Batrachoseps nigriventris" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Thamnophis couchii" ; Times: 1
+	Query: "specificepithet:nigriventris genus:Batrachoseps" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "chelonia mydas" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Thamnophis atratus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Thamnophis elegans terrestris" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+
+
+End of report.
