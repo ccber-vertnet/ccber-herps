@@ -1,0 +1,113 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 1509
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Hong Kong ; Times: 1
+	Country: Australia ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-19 ; Times: 26
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1981 year &lt;= 1983" ; Times: 2
+	Query: "specificepithet:pulchra genus:anniella year &gt;= 1991 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;fresno&#34;" ; Times: 1
+	Query: "specificepithet:pulchra genus:anniella year &gt;= 1988 year &lt;= 1988" ; Times: 3
+	Query: "specificepithet:regilla county:&#34;tulare&#34;" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Ventura&#34;" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:boylii county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1984 year &lt;= 1985" ; Times: 2
+	Query: "cROTALUS SIMUS" ; Times: 1
+	Query: "specificepithet:pulchra genus:anniella year &gt;= 1989 year &lt;= 1989" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1987 year &lt;= 1988" ; Times: 1
+	Query: "genus:gambelia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;Santa Barbara&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana county:&#34;Fresno&#34;" ; Times: 1
+	Query: "genus:Crotaphytus county:&#34;riverside&#34;" ; Times: 3
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1986 year &lt;= 1986" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "specificepithet:pulchra genus:anniella year &gt;= 1990 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1987 year &lt;= 1987" ; Times: 5
+	Query: "specificepithet:pulchra genus:Anniella county:&#34;kern&#34;" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "xantusia apache" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1961 year &lt;= 1965" ; Times: 1
+	Query: "specificepithet:tigris county:&#34;mono&#34;" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;mono&#34;" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1986 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1981 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;madera&#34;" ; Times: 1
+	Query: "specificepithet:granulosa genus:taricha county:&#34;Santa Cruz&#34;" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "specificepithet:Cadaverina county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "specificepithet:pulchra county:&#34;kern&#34;" ; Times: 2
+	Query: "genus:gambelia county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:cadaverina county:&#34;riverside&#34; year &gt;= 1976 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:draconoides county:&#34;kern&#34;" ; Times: 1
+	Query: "specificepithet:pulchra genus:anniella year &gt;= 2000 year &lt;= 2020" ; Times: 2
+	Query: "24760" ; Times: 1
+	Query: "genus:crotaphytus county:&#34;mono&#34;" ; Times: 1
+	Query: "contia tenuis county:&#34;san luis obispo&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 976 download events in this period)
+Total number of records downloaded: 396
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys hastissue:1" ; Times: 2
+
+
+End of report.
