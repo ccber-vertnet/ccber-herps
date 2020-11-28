@@ -1,0 +1,189 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 2383
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 144
+	Country: Ireland ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 44
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 5
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-29 ; Times: 22
+	Date: 2020-07-24 ; Times: 7
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-17 ; Times: 10
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-12 ; Times: 3
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-21 ; Times: 15
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-28 ; Times: 7
+	Date: 2020-07-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Plestiodon class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS) institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:Lebec county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:reptilia locality:Dinkey county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus pyrrhus riverside" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1984 year &lt;= 1984 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "class:Reptilia locality:Caliente county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:elegans class:reptilia county:&#34;fresno&#34;" ; Times: 1
+	Query: "genus:Coluber county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 2
+	Query: "class:reptilia locality:kaiser county:&#34;fresno&#34;" ; Times: 2
+	Query: "genus:charina county:&#34;fresno&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1988 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;Kern&#34;" ; Times: 1
+	Query: "specificepithet:gilberti genus:Plestiodon class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS) institutioncode:CCBER" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;california&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2003 year &lt;= 2003" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2011 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1979 year &lt;= 1979" ; Times: 1
+	Query: "Hemet crotalus" ; Times: 1
+	Query: "locality:Dinkey county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Bena county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Batrachoseps incognitus" ; Times: 5
+	Query: "genus:Gambelia county:&#34;Ventura&#34;" ; Times: 1
+	Query: "genus:Salvadora county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis locality:cuyama county:&#34;San luis obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus stephensi mono" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1981 year &lt;= 1982" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Cameron county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS) institutioncode:CCBER" ; Times: 1
+	Query: "class:Reptilia locality:Summit county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "genus:ambystoma county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 2
+	Query: "class:Reptilia locality:Willow Springs county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Santa Barbara san josé" ; Times: 1
+	Query: "class:reptilia locality:Mono Hot county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hammondii class:reptilia county:&#34;san luis obispo&#34;" ; Times: 2
+	Query: "specificepithet:gilberti county:&#34;Fresno&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1992 year &lt;= 1993" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "coluber flagellum county:&#34;ventura&#34;" ; Times: 1
+	Query: "trimorphodon county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Riverside county charina" ; Times: 1
+	Query: "class:reptilia locality:Dinkey county:&#34;Fresno&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1983 year &lt;= 1983" ; Times: 1
+	Query: "specificepithet:Elegans genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;San luis obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1977 year &lt;= 1977" ; Times: 1
+	Query: "Batrachoseps pacificus" ; Times: 1
+	Query: "class:Reptilia locality:Edison county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1990 year &lt;= 1991" ; Times: 1
+	Query: "san Gabriel river county:&#34;Los Angeles&#34; collectioncode:Herps AND (NOT batrachoseps NOT sceloporus)" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1980 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:charina county:&#34;mono&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "genus:charina county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "coluber county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:Coluber county:&#34;fresno&#34;" ; Times: 1
+	Query: "arizona elegans county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Plestiodon class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "genus:pituophis class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "class:amphibia locality:Mono Hot county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2006 year &lt;= 2006" ; Times: 1
+	Query: "genus:Hydromantes county:&#34;fresno&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1996 year &lt;= 2000" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "pseudacris sierra" ; Times: 1
+	Query: "Batrachoseps nigriventris" ; Times: 3
+	Query: "genus:pituophis class:reptilia county:&#34;fresno&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1995 year &lt;= 1995" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1988 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1994 year &lt;= 1994" ; Times: 1
+	Query: "specificepithet:Atratus county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "genus:coluber class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 2
+	Query: "genus:Plestiodon class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1986 year &lt;= 1987" ; Times: 4
+	Query: "28078" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1991 year &lt;= 1992" ; Times: 1
+	Query: "genus:ensatina county:&#34;el dorado&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1984 year &lt;= 1984 month &gt;= 7 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 1
+	Query: "genus:salvadora hastissue:1" ; Times: 3
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1984 year &lt;= 1984 month &gt;= 1 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:taeniatus class:reptilia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mono&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "san dimas county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "claremont county:&#34;Los Angeles&#34; collectioncode:Herps" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;ventura&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2007 year &lt;= 2010" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "genus:hydromantes county:&#34;Fresno&#34;" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 940 download events in this period)
+Total number of records downloaded: 7137
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Australia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "coluber flagellum county:&#34;ventura&#34;" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+
+
+End of report.
