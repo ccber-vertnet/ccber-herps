@@ -1,0 +1,77 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 169
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-26 ; Times: 2
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "30186" ; Times: 1
+	Query: "Santa Rosa county pituophis" ; Times: 1
+	Query: "genus:Pituophis preparations:skeleton" ; Times: 3
+	Query: "specificepithet:aurora genus:rana county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:gilberti county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Pituophis country:&#34;United States&#34; preparations:skeleton" ; Times: 1
+	Query: "32554" ; Times: 1
+	Query: "mountain goat" ; Times: 1
+	Query: "specificepithet:atrox stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;California&#34; preparations:skeleton" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "specificepithet:boreas county:&#34;mono&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 842 download events in this period)
+Total number of records downloaded: 427
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-02 ; Times: 5
+	Date: 2020-11-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambelia sila" ; Times: 4
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx" ; Times: 1
+
+
+End of report.
