@@ -1,0 +1,94 @@
+Report for Institution Code CCBER, Resource ccber_herps
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 708
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 7
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-18 ; Times: 7
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pituophis preparations:skeleton" ; Times: 3
+	Query: "genus:Pituophis stateprovince:&#34;California&#34; preparations:skeleton institutioncode:CCBER" ; Times: 1
+	Query: "institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:pacificus genus:Batrachoseps institutioncode:CCBER" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; preparations:skeleton" ; Times: 1
+	Query: "specificepithet:scutulatus genus:crotalus county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "genus:Chelonia stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:catenifer genus:Pituophis preparations:skeleton institutioncode:CCBER" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "genus:Chelonia stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Crotalus oreganus helleri" ; Times: 1
+	Query: "vandenburghi" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;California&#34; preparations:skeleton" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; preparations:skeleton institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:torosa genus:taricha county:&#34;mendocino&#34;" ; Times: 1
+	Query: "specificepithet:californiense genus:ambystoma month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:tenuis genus:contia county:&#34;mendocino&#34;" ; Times: 2
+	Query: "specificepithet:boylii genus:rana county:&#34;san benito&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; preparations:skeleton" ; Times: 1
+	Query: "Coluber taeniatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis preparations:skeleton institutioncode:CCBER" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;California&#34; preparations:skeleton" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; preparations:skeleton institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis preparations:skeleton institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;California&#34; preparations:skeleton" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "specificepithet:mavortium genus:ambystoma stateprovince:&#34;California&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 705 download events in this period)
+Total number of records downloaded: 3208
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "specificepithet:pacificus genus:Batrachoseps institutioncode:CCBER" ; Times: 1
+	Query: "aneides ferreus" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+
+
+End of report.
